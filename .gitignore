@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+highscore.json
+.cursor/
+.DS_Store
